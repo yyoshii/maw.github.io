@@ -13,3 +13,5 @@ Markdown is just regular text with a few non-alphabetic characters thrown in, li
 As Grace Hopper said:
 > I’ve always been more interested
 > in the future than in the past.
+
+<img src="https://profile-images.xing.com/users/88f2cc79c5fef820d562afa3c70e83da-6/image.1024x1024.jpg"/>
